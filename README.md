@@ -91,7 +91,7 @@ cd Oil-Spill-Detection
 
 ## 📄 Paper  
 
-This project is based on our peer-reviewed research paper:  
+This project is based on our peer-reviewed research paper: [`Click here to see the paper`](https://github.com/devroopdas/Oil-Spill-Detection/blob/main/Oil%20Spill%20Detection%20Using%20Deep%20Learning%20A%20Comparison%20of%20U-Net%2C%20DeepLabV3%20%26%20PSPNet%20%5BFINAL%5D%20(1).pdf)
 **“Oil Spill Detection Using Deep Learning: A Comparison of U-Net, DeepLabV3 & PSPNet”**  
 _Accepted at the **16th International IEEE Conference on Communication, Networks and Satellite (Comnetsat), 2024**_
 
